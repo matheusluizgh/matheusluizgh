@@ -1,5 +1,5 @@
 ## Olá! meu nome é Matheus Favoretto 👋  
-Sou formado em ADS e atualmente estou estudando com foco em **CyberSecurity & DevOps**.
+Sou formado em ADS e atualmente estou estudando com foco em **Engenharia de Software & Análise de Dados**.
 
 ## Estudando
 <img src="https://skillicons.dev/icons?i=python,js,mysql,linux,git" />
